@@ -1,0 +1,44 @@
+
+fonksiyon
+	doSomething(parameter1 / parameter2 / parameter3)
+	baþla
+		olursa(selim denkse mehmet)
+			sýla denktir doðru.
+		olmazsa
+			sýla denktir yanlýþ.
+		olurken ( ( mehmet büyük_eþitken 1997 ve sýla küçükken 13) veya (bölüm denktir CS)) 
+		baþla
+			sum artýbir.
+			bas!( 4 çarpý 5.). :THIS IS A COMMENT:
+			oku!(valueToAdd).
+			valueToAdd eksibir.
+		bitir.
+		dönüyor doðru.
+	bitir.
+fonksiyoff
+
+
+örnekDizi denktir dizi[20].
+index denktir 1.
+
+:Robot Functions:
+olurken(index farklýysa 20)
+baþla
+	tut().
+	yürü().
+	býrak().
+	dön().
+	data_oku().
+	data_ver().
+	data_al().
+	index artýbir.
+bitir.
+
+
+
+	
+			
+			
+
+			
+		
